@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="babysitter.BabySitterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-07-24T18:34:08" hostname="LAPTOP-6INC2Q31" time="0.154">
+  <properties/>
+  <testcase name="oneHourPreBedTimeShouldPay12()" classname="babysitter.BabySitterTest" time="0.132"/>
+  <testcase name="startBeforeKidsAsleepAndWorkUntil2Am()" classname="babysitter.BabySitterTest" time="0.001"/>
+  <testcase name="midnightToEndOfShift()" classname="babysitter.BabySitterTest" time="0.001"/>
+  <testcase name="startAfterBedtimeTooMidnight()" classname="babysitter.BabySitterTest" time="0.002"/>
+  <testcase name="oneHourPostBedtimeShouldPay8()" classname="babysitter.BabySitterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
